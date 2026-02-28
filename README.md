@@ -1,16 +1,36 @@
-## Hi there 👋
+# ¡Hola! Soy Juan Ignacio Gonzalez
 
-<!--
-**IgnacioG6/IgnacioG6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador Backend** y estudiante de licenciatura en sistemas.
 
-Here are some ideas to get you started:
+Mi enfoque está en:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Java moderno y Spring Boot**  
+- **Arquitectura limpia**  
+- **Testing**  
+- **Bases de datos SQL**  
+
+## 📚 Proyectos
+
+- Sistema de Reservas de Canchas Deportivas
+- Sistema Bancario API 
+- Sistema de Gestión Hospitalaria 
+
+## 🛠 Tecnologías que uso
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" />
+</div>
+
+## 📺 Encuéntrame en
+
+<div align="center">
+  <a href="linkedin.com/in/juan-ignacio-gonzález-8a6556295" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
+
+---
